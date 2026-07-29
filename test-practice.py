@@ -1,4 +1,2 @@
 Hi , i am new to the team. Can i do some changes  here?
-
-wq!
-Hello
+This is AI learning day.
